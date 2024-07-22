@@ -1,5 +1,6 @@
-# My Resume
-
+# resume
 LaTeX template for my personal resume
 
-Based off of sb2nov/resume
+Based off of [jakegut/resume](https://github.com/jakegut/resume/)   
+
+![Resume Preview](resume.png)
